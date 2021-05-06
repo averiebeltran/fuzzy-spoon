@@ -1,0 +1,23 @@
+{
+  "name": "fuzzy-spoon",
+  "version": "1.0.0",
+  "description": "AS AN avid traveler </br> I WANT to be able to track my withdrawals and deposits with or without a data/internet connection</br> SO THAT my account balance is accurate when I am traveling</br>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averiebeltran/fuzzy-spoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/averiebeltran/fuzzy-spoon/issues"
+  },
+  "homepage": "https://github.com/averiebeltran/fuzzy-spoon#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  }
+}
