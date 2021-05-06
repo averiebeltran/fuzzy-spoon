@@ -12,4 +12,4 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 
 Deployed Heroku App: https://limitless-island-51747.herokuapp.com
-![budget graph](https://ibb.co/74qckBP)
+
